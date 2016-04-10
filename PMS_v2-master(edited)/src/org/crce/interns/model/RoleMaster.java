@@ -15,6 +15,7 @@ public class RoleMaster {
 	@Column(name = "role_id" )
 	int roleId;
 	
+	
 	@Column(name = "role_name" )
 	String roleName;
 	
