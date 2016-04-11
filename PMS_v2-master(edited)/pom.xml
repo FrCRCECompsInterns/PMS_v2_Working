@@ -27,12 +27,17 @@
 		</plugins>
 	</build>
 
+	
+	
 	<properties>
 		<spring.version>4.0.3.RELEASE</spring.version>
 		<hibernate.core>4.2.7.Final</hibernate.core>
 		<postgres.connector.version>9.4.1207</postgres.connector.version>
 	</properties>
 
+	
+	
+	
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
